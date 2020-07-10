@@ -1,0 +1,54 @@
+body
+{
+	margin:0;
+}
+.row
+{
+	margin:0;
+}
+.container-fluid
+{
+	padding:0;
+}
+.background-image
+{
+	background: url("beach.jpg")no-repeat center center fixed;
+	background-size: cover;
+	height:100vh;
+	/*width:100%;*/
+	margin:0;
+}
+.adjust-center
+{
+	margin:auto;
+
+}
+.adjust-center>h1,h6
+{
+	font-weight: bold;
+	color:#8F5430;
+	padding:5px;
+}
+.button-style
+{
+	background-color: transparent;
+	border-color: #8F5430;
+	color:#8F5430;
+	padding:10px 20px;
+	border-radius: 12px;
+}
+.button-style:hover
+{
+	background-color:#8F5430;
+	border-color: #8F5430;
+}
+.second{
+	background-color: #8F5430;
+	height:20vh;
+	color:white;
+}
+.third
+{
+	height:20vh;
+	color:#8F5430;
+}
